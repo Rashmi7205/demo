@@ -1,0 +1,7 @@
+Welcome to python
+We learn file Handling
+Python is easy
+c Program
+c++ program
+java program
+python program

@@ -1,0 +1,31 @@
+{
+    "ques":[
+        "Q1. Choose the option below which is not a member of class ?",
+        "Q2. We can applya RTTI ro which of the class?",
+        "Q3. Which operator cannot be overloaded ?",
+        "Q4. What is the size of empty class size in c++?",
+        "Q5. How many object can be created of a class in c++?",
+        "Q6. How many Acsess specifier in c++?"
+    ],
+    "Ans":[
+        1,1,4,2,3,3
+    ],
+    "Choices ":[
+        [
+            "Friend Function","Static Function","Virtual Function","None"
+        ],
+        [
+            "polymorphic","Encapsulation","static","derived"
+        ],
+        [
+            "+","-","*","::"
+        ],
+        [
+            "1","5","There is no limit","256"
+        ],
+        [
+            "1","2","3","4"
+        ]
+    ]
+
+}

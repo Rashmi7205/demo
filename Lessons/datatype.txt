@@ -1,0 +1,58 @@
+'''
+int ,float,bytes,bytesarray,range,list,tuple,set,frozenset,dict,none
+'''
+
+type is the predefined function used to find the data type of a variable.
+	ex	
+	----
+	x = 10
+	type(x)
+	<class 'int'>
+
+-------------
+##int		|
+##-----------
+#Hold the integral value
+# whole numbers
+
+decimal form
+	x = 10
+	print(x) //10
+binary form
+	y = 0b10
+	print(y) //2
+octal form
+	z = 0o10
+	print(z) // 8
+hexadecimal form
+	a = 0X10
+	print(a) //16
+Note :
+	python returns value in the decimal value
+
+
+Base conversion
+=================
+	bin()
+	oct()
+	hex()
+	
+ex:
+	bin(x) -->x can be octal ,decimal or any value
+	bin(15) //'0b1111'
+	bin(0o777)//'0b111111111'
+	bin(0x1234)//'0b1001000110100'
+	oct(786)//'0o1422'
+	oct(0xFace) //0o175316
+	hex(10) //0xa
+	hex(161789) //0x495
+
+
+python2 && python3
+------------------
+	long is present in python 2 but it is not present in python3
+
+---------------------
+			Float	|
+---------------------
+<class 'float'>

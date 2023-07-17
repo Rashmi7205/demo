@@ -1,0 +1,60 @@
+PYTHON 2020
+--------------
+N0 -1
+-----
+a)4+1
+b)/ is refers to the float division it is used to  get a float value after division
+    --// is used to refers to the floor division used to get a int values after division
+c)10**3 = 1000
+d)x = 1
+    x+=2 = 3
+e)float(1) = 1.00
+f)bool ("False") = True;
+g)10 == "10" # False         
+h)"bag" >"apple" #True
+
+No-2
+----
+##a)What is variable?
+    variables are the identifires to hold a perticular type of data.
+    variables are used to store the value of a constant.
+    It can be of any predefined or user defined object type.
+    There are two types of variable in PYTHON  
+        1) Local 
+        2)Global and non local 
+##b)What are the primitive built-in types in Python?
+  There are some built-in primitives in python like
+    list(),tuple(),int(),float(),bool(),dict()
+##c)When we should use """ """ to define strings?
+    It is used for the multiline strings
+    e.g.
+    """
+        Hey
+        There
+    """
+##d) name = "john smith"   
+    name[1] = 'o'
+##e)How to get the length of the name
+    len(name)
+
+##f)What are the escape sequense in python?
+    \n,\t,\,\\(Backslach),\r(carrige value),\b(backspace),\ooo(octal),\xhh (hex value)
+##g)What is flow chart
+    It is a graphical representation of a progam to solve any problem
+    It uses different types of symbols to represent the entities of the program
+    It includes different steps of execution of the program
+##h)What are 3 types of numbers in python?
+    complex,
+    int(),
+    float()
+
+## i)How can we round a number?
+    Using round() we can find the round the value.
+## j)Define the term algorithm?
+    Algorithm is the approach to solve any problem.
+    It is the process of solveing a problem.
+
+## k)Difference between variable and constant?
+     variable is identifier which value can be changed multiple times.
+     but we cannot change the value of any constant more than once.
+
